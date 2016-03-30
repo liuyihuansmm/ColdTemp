@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ColdTemp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColdTemp_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ColdTemp.jar">
+        <element id="module-output" name="ColdTemp" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
